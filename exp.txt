@@ -1,0 +1,3 @@
+Hello there!
+Welcome to the tutorial of c++ programming for beginners.
+This document will contain explanation about the basics of c++ programming.
